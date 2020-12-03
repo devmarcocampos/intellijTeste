@@ -4,7 +4,7 @@ class Aluno(
     ) {
 
     fun setarNome() {
-        nome = "Nilson"
+        nome = "Nilsao"
     }
 
 }
